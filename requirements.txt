@@ -1,0 +1,33 @@
+# GUI Framework
+PyQt6==6.6.1
+PyQt6-tools==6.6.1
+QDarkStyle==3.2
+
+# PDF Processing
+PyMuPDF==1.23.8
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# Machine Learning & NLP
+scikit-learn==1.3.2
+numpy==1.24.4
+pandas==2.0.3
+spacy==3.7.2
+tensorflow==2.15.0
+shap==0.42.1
+
+# Database
+sqlite3
+
+# Security & Encryption
+cryptography==41.0.8
+
+# Testing
+pytest==7.4.3
+pytest-qt==4.2.0
+
+# Deployment
+PyInstaller==6.1.0
+
+# Medical NLP Models (will be downloaded separately)
+# en_core_med_sci_lg (spaCy model)
